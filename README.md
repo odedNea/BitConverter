@@ -8,5 +8,5 @@ A Qt Application to convert some currencies to the current Bitcoin rate
 This tool runs on the Qt Creator IDE.
 To do so, clone the repository, open the BitConverter.pro and hit the Run button.
 
-@Author - Oded Neaman
-hahahaha
+@Author - **Oded Neaman**
+
